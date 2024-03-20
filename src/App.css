@@ -1,0 +1,14 @@
+.images {
+    columns: 300px;
+    column-gap: 10px;
+    .image {
+        padding: 0 12px;
+        img {
+            width: 100%;
+            margin-bottom: 10px;
+        }
+    }
+}
+.label{
+    font-size: 30px !important;
+}
